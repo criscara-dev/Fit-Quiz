@@ -1,0 +1,101 @@
+[
+   {
+		"question" : "If you want to gain mass using a supplement, which one of the follow you need to take to boost your mass gains?",
+       "answers"  : [
+	       {"id" : 0, "text" : "creatine"},
+			{"id" : 1, "text" : "vit A"},
+			{"id" : 2, "text" : "caffeine"},
+			{"id" : 3, "text" : "L-theanine"}       
+	    ],
+		"correct"  : 0
+   },
+      {
+		"question" : "Which of the following lifts is called 'squats?'",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/frontsquat.jpg"},
+			{"id"  : 1, "image" : "images/deadlift-right.jpg"}
+		],
+		"correct"  : 0,
+        "feedback" : "The second esxercise is Known as deadlift." 
+	},
+    {
+		"question" : "What beneficial compounds are primarily found in animal products?",
+		"answers"  : [
+			{"id"  : 0, "text" : "chlorophill" },
+			{"id"  : 1, "text" : "aspartame" },
+			{"id"  : 2, "text" : "L-Carnitine" },
+			{"id"  : 3, "text" : "D-ribose" }
+		],
+		"correct"  : 2
+	},
+    {
+		"question" : "Which athlete is performing a correct lift?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/wrong-deadl.jpg"},
+			{"id"  : 1, "image" : "images/deadlift-right.jpg"}
+		],
+		"correct"  : 1
+	},
+   {
+		"question" : "Is creatine dangerous?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Yes" },
+			{"id"  : 1, "text" : "No" }			
+		],
+		"correct"  : 1,
+        "feedback" : "There are no scientific studies that link creatine as a causative factor in any form of cancer, any claims that link creatine to cancer are currently not validated by any evidence."
+	},
+    {
+		"question" : "Does caffeine counteract creatine??",
+		"answers"  : [
+			{"id"  : 0, "text" : "Yes" },
+			{"id"  : 1, "text" : "No" },
+            {"id"  : 2, "text" : "It's possible, but..." }
+		],
+		"correct"  : 2,
+        "feedback" : "It might counteract creatine in regards to intermittent maximal muscle contraction as assessed by leg extension, but the evidence is limited to one study. Additionally, when measuring performance (sprints, usually) where repeated short-term muscle contractions are the concern there is no difference between creatine or creatine+caffeine."  
+	},
+	{
+		"question" : "Does creatine cause kidney problems?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Yes"},
+			{"id"  : 1, "text" : "It depends"},
+			{"id"  : 2, "text" : "No"}
+		],
+		"correct"  : 1,
+        "feedback" : "For those with healthy kidneys: No. For those with impaired kidney function, it is highly unlikely but one should still check with their medical doctor."
+	},
+	{
+		"question" : "what means BCAAs?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Branched Chain Amino Acids"},
+			{"id"  : 1, "text" : "Blended Carnosine Anti Acids"},
+			{"id"  : 2, "text" : "Bold Chloro Amino Arginine"},
+			{"id"  : 3, "text" : "Bipolar Chain Anti Aging"}
+		],
+		"correct"  : 0
+	},
+    {
+		"question" : "which are the 3 Macronutrients that you should have in your diet?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Proteins, Carbohydrates, Fats"},
+			{"id"  : 1, "text" : "Vitamins, Proteins, Fats"},
+			{"id"  : 2, "text" : "Vitamins, Minerals, Fats"},
+			{"id"  : 3, "text" : "Vitamins, Carbohydrates, Fats"}
+		],
+		"correct"  : 0
+	},
+    {
+		"question" : "How you can speed up your metabolism?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Eat less"},
+			{"id"  : 1, "text" : "lifting weight regularly"},
+			{"id"  : 2, "text" : "lifting weight 3 times per week"}
+		],
+		"correct"  : 1
+	}
+]
+
+
+
+
